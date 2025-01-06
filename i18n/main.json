@@ -15,7 +15,7 @@
     "no-cold-calls": "Don’t call someone out of the blue. Respect that your desired call partner might be busy and in flow. Calling someone means you request immediate, full attention, interrupting any other activity. Some people like to probe with an initial “hello” to verify whether the presence status shown is true, hoping they can determine whether the recipient is near a device, then will immediately follow up with a call. Don’t do that either. If someone is able and willing to answer a chat message, it does not mean that they are also available for a voice or video call.",
     "better-call-request": "Instead of sending a call probe, or asking “hey, do you have time for a call?” (which is better but not great), you can try something like this:",
     "call-request-benefits": "This does three things: it time bounds the request, it gives the recipient some context, and it helps you remember what you wanted to talk about if the recipient can’t or doesn’t respond until later.",
-    "source-code": "The source for this website is open and available on GitHub."
+    "source-code": "The source for this website is open and available on "
   },
   "pt": {
     "please-dont-just-say-hello-in-chat": "Por favor, não diga apenas olá no chat",
@@ -33,7 +33,7 @@
     "no-cold-calls": "Não ligue para alguém sem aviso prévio. Respeite que seu parceiro de chamada desejado pode estar ocupado e focado. Ligar para alguém significa que você solicita atenção imediata e total, interrompendo qualquer outra atividade. Algumas pessoas gostam de sondar com um “olá” inicial para verificar se o status de presença mostrado é verdadeiro, esperando poder determinar se o destinatário está perto de um dispositivo, e então seguem imediatamente com uma chamada. Não faça isso também. Se alguém é capaz e está disposto a responder uma mensagem de chat, isso não significa que também está disponível para uma chamada de voz ou vídeo.",
     "better-call-request": "Em vez de enviar uma sondagem de chamada ou perguntar “ei, você tem tempo para uma chamada?” (o que é melhor, mas não ideal), você pode tentar algo assim:",
     "call-request-benefits": "Isto faz três coisas: delimita o tempo do pedido, fornece contexto ao destinatário e ajuda você a lembrar sobre o que queria falar se o destinatário não puder ou não responder até mais tarde.",
-    "source-code": "O código-fonte deste site é aberto e disponível no GitHub."
+    "source-code": "O código-fonte deste site é aberto e disponível no "
   },
   "es": {
     "please-dont-just-say-hello-in-chat": "Por favor, no digas solo hola en el chat",
@@ -51,7 +51,7 @@
     "no-cold-calls": "No llames a alguien de repente. Respeta que tu compañero de llamada deseado podría estar ocupado y concentrado. Llamar a alguien significa que solicitas atención inmediata y completa, interrumpiendo cualquier otra actividad. Algunas personas les gusta indagar con un “hola” inicial para verificar si el estado de presencia mostrado es verdadero, esperando poder determinar si el destinatario está cerca de un dispositivo, y luego seguir inmediatamente con una llamada. No hagas eso tampoco. Si alguien puede y está dispuesto a responder un mensaje de chat, no significa que también esté disponible para una llamada de voz o video.",
     "better-call-request": "En lugar de enviar una sonda de llamada o preguntar “¿hey, tienes tiempo para una llamada?” (lo cual es mejor pero no excelente), puedes intentar algo así:",
     "call-request-benefits": "Esto hace tres cosas: delimita el tiempo de la solicitud, proporciona contexto al destinatario y te ayuda a recordar sobre qué querías hablar si el destinatario no puede o no responde hasta más tarde.",
-    "source-code": "El código fuente de este sitio está abierto y disponible en GitHub."
+    "source-code": "El código fuente de este sitio está abierto y disponible en "
   },
   "it": {
     "please-dont-just-say-hello-in-chat": "Per favore, non dire solo ciao nella chat",
@@ -69,7 +69,7 @@
     "no-cold-calls": "Non chiamare qualcuno senza preavviso. Rispetta che il tuo partner di chiamata desiderato potrebbe essere occupato e concentrato. Chiamare qualcuno significa richiedere attenzione immediata e completa, interrompendo qualsiasi altra attività. Alcune persone amano sondare con un iniziale “ciao” per verificare se lo stato di presenza mostrato è vero, sperando di poter determinare se il destinatario è vicino a un dispositivo, per poi seguire immediatamente con una chiamata. Non fare nemmeno questo. Se qualcuno è capace e disposto a rispondere a un messaggio di chat, non significa che sia disponibile anche per una chiamata vocale o video.",
     "better-call-request": "Invece di inviare una sondaggio di chiamata o chiedere “eh, hai tempo per una chiamata?” (che è meglio ma non ottimo), puoi provare qualcosa del genere:",
     "call-request-benefits": "Questo fa tre cose: delimita il tempo della richiesta, fornisce contesto al destinatario e ti aiuta a ricordare di cosa volevi parlare se il destinatario non può o non risponde fino a più tardi.",
-    "source-code": "Il codice sorgente di questo sito è aperto e disponibile su GitHub."
+    "source-code": "Il codice sorgente di questo sito è aperto e disponibile su "
   },
   "fr": {
     "please-dont-just-say-hello-in-chat": "Veuillez ne pas simplement dire bonjour dans le chat",
@@ -87,7 +87,7 @@
     "no-cold-calls": "Ne contactez pas quelqu'un à l'improviste. Respectez que votre partenaire d'appel souhaité pourrait être occupé et concentré. Appeler quelqu'un signifie que vous demandez une attention immédiate et complète, interrompant toute autre activité. Certaines personnes aiment sonder avec un initial « bonjour » pour vérifier si le statut de présence affiché est vrai, en espérant pouvoir déterminer si le destinataire est proche d'un appareil, puis suivront immédiatement par un appel. Ne faites pas cela non plus. Si quelqu'un est capable et disposé à répondre à un message de chat, cela ne signifie pas qu'il est également disponible pour un appel vocal ou vidéo.",
     "better-call-request": "Au lieu d'envoyer une sonde d'appel ou de demander « hé, as-tu du temps pour un appel ? » (ce qui est mieux mais pas génial), vous pouvez essayer quelque chose comme ceci :",
     "call-request-benefits": "Cela fait trois choses : cela limite le temps de la demande, cela donne du contexte au destinataire et cela vous aide à vous souvenir de ce dont vous vouliez parler si le destinataire ne peut pas ou ne répond pas avant plus tard.",
-    "source-code": "Le code source de ce site est ouvert et disponible sur GitHub."
+    "source-code": "Le code source de ce site est ouvert et disponible sur "
   },
   "ja": {
     "please-dont-just-say-hello-in-chat": "チャットで「こんにちは」だけ言わないでください",
@@ -105,7 +105,7 @@
     "no-cold-calls": "いきなり連絡するのは避けましょう。あなたの希望するコールパートナーが忙しく集中している可能性があることを尊重してください。誰かに電話をかけるということは、即時の完全な注意を要求し、他の活動を中断することを意味します。初めの「こんにちは」で存在状態が本当かどうかを確認し、受信者がデバイスの近くにいるかどうかを判断できることを望み、その後すぐに電話をかけるのが好きな人もいます。これもやめましょう。誰かがチャットメッセージに答えることができ、意欲的であっても、それは音声またはビデオ通話にも対応可能であることを意味しません。",
     "better-call-request": "コールプローブを送信する代わりに、または「ねえ、電話の時間ある？」と尋ねる代わりに（これは良いですが完璧ではありません）、次のような方法を試すことができます：",
     "call-request-benefits": "これは3つのことを行います：リクエストの時間枠を限定し、受信者にコンテキストを提供し、受信者が後で応答できない場合に話したかったことを覚えておくのに役立ちます。",
-    "source-code": "このウェブサイトのソースコードはオープンであり、GitHubで利用可能です。"
+    "source-code": "The source for this website is open and available on "
   },
   "ko": {
     "please-dont-just-say-hello-in-chat": "채팅에서 단순히 안녕이라고 말하지 마세요",
@@ -123,6 +123,6 @@
     "no-cold-calls": "예고 없이 누군가에게 전화하지 마세요. 원하는 통화 파트너가 바쁘거나 집중하고 있을 수 있음을 존중하세요. 누군가에게 전화를 건다는 것은 즉각적이고 완전한 주의를 요청하며, 다른 활동을 방해한다는 것을 의미합니다. 일부 사람들은 표시된 상태가 진실인지 확인하기 위해 초기 “안녕하세요”로 확인하려고 하고, 수신자가 장치 근처에 있는지 판단하려고 희망하며, 그 후 즉시 전화를 걸기를 좋아합니다. 이것도 하지 마세요. 누군가가 채팅 메시지에 답변할 수 있고 기꺼이 하더라도, 이는 음성 또는 영상 통화에도 응답 가능함을 의미하지 않습니다.",
     "better-call-request": "통화 프로브를 보내거나 “야, 통화할 시간 있어?”라고 묻는 대신(이는 더 나지만 완벽하지는 않음), 다음과 같은 방법을 시도할 수 있습니다:",
     "call-request-benefits": "이것은 세 가지를 합니다: 요청의 시간을 제한하고, 수신자에게 약간의 맥락을 제공하며, 수신자가 나중에 응답할 수 없거나 응답하지 않을 경우에 이야기하고 싶었던 내용을 기억하는 데 도움이 됩니다.",
-    "source-code": "이 웹사이트의 소스 코드는 오픈되어 있으며 GitHub에서 이용 가능합니다."
+    "source-code": "The source for this website is open and available on "
   }
 }
