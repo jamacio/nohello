@@ -18,6 +18,10 @@ The goal of the Nohello website is to promote more efficient and productive comm
 - Respect others' time and focus.
 - Request a call by informing the necessary time and the subject to be discussed.
 
+## Contributing Translations
+
+We invite you to add unsupported languages to the `i18n` folder, accessible via this [link](https://raw.githubusercontent.com/jamacio/nohello/main/i18n/main.json). The language will be selected automatically based on the user's browser settings.
+
 ## Acknowledgements
 
 This site was inspired by the original at [nohello.com](https://www.nohello.com/).
