@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         localStorage.setItem('theme', theme);
     });
     const userLang = localStorage.getItem('language') || (navigator.language || navigator.userLanguage).split('-')[0];
-    fetch('/i18n/main.json')
+    fetch('../../i18n/main.json')
         .then(response => response.json())
         .then(data => {
             const translations = data;
