@@ -16,6 +16,7 @@
 </head>
 
 <body>
+  <button id="toggle-dark-mode">Dark Mode</button>
   <h1 id="please-dont-just-say-hello-in-chat">Please Don’t Just Say Hello In Chat</h1>
   <h2 id="tldr">TL;DR</h2>
   <p>Modern chat communication should be done in a way that saves time for all participants and enables an efficient,
@@ -60,6 +61,28 @@
     what you wanted to talk about if the recipient can’t or doesn’t respond until later.</p>
   <p><sup>The source for this website is open and available on <a
         href="https://jamacio.github.io/nohello/">GitHub</a>.</sup></p>
+
+  <script>
+    const toggleButton = document.getElementById('toggle-dark-mode');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme === 'dark') {
+      document.body.classList.add('dark-mode');
+      toggleButton.textContent = 'Light Mode';
+    }
+
+    toggleButton.addEventListener('click', () => {
+      document.body.classList.toggle('dark-mode');
+      let theme = 'light';
+      if (document.body.classList.contains('dark-mode')) {
+        theme = 'dark';
+        toggleButton.textContent = 'Light Mode';
+      } else {
+        toggleButton.textContent = 'Dark Mode';
+      }
+      localStorage.setItem('theme', theme);
+    });
+  </script>
 </body>
 
 </html>
